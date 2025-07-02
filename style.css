@@ -1,3 +1,28 @@
 body{
-    color:blueviolet
+    background-color: rgb(211, 210, 210);
+    color:rgb(218, 18, 18);
+    font-family: "Caudex", serif;
+    margin: 10px;
+}
+
+header{
+border-bottom: solid 10px rgb(120, 61, 61);
+padding: 20px;
+font-size: 40px;
+color: rgb(117, 41, 41);
+}
+h1{
+    font-size: 32px;
+}
+
+
+p{
+    font-size: 20px;
+}
+
+section{
+    background-color: rgb(111, 38, 38);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
 }
