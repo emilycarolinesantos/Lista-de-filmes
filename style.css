@@ -1,6 +1,6 @@
 body{
     background-color: rgb(211, 210, 210);
-    color:rgb(218, 18, 18);
+    color:rgb(243, 234, 234);
     font-family: "Caudex", serif;
     margin: 10px;
 }
@@ -21,7 +21,7 @@ p{
 }
 
 section{
-    background-color: rgb(111, 38, 38);
+    background-color: rgb(181, 50, 50);
     padding-bottom: 80px;
     padding-top: 80px;
     justify-content: center;
